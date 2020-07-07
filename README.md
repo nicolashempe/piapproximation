@@ -1,5 +1,4 @@
 # piapproximation
 ## PI approximation using the Monte Carlo method
-Monte Carlo Method for approximation of PI
-Use of tkinter library 
+Monte Carlo Method for approximation of PI with use of tkinter library 
 
